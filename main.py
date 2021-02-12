@@ -9,4 +9,4 @@ def __init__(self, age, gas):
         self.age = age
         self.gas = gas
 
-
+print('you gone be somebody')
